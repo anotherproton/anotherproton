@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anotherproton
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning DSA and Android Development
+- 👀 I’m a Full Stack Developer.
+- 🌱 Hands on React.js, Node.js, JavaScript, HTML & CSS, MongoDB, Bootstrap.
 - 📫 How to reach me @tanujpicography - Instagram
 
 <!---
